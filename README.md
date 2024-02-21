@@ -1,7 +1,12 @@
 # SpringBoot-Student-Management
 "A Spring Boot project implementing a Student Management System with CRUD operations. MySQL is used as the database, and Thymeleaf powers the frontend. This project enables seamless management of student records, offering a practical demonstration of Spring Boot, MySQL integration, and frontend development with Thymeleaf."
 
+
+
+
 Certainly! Below is a sample project description for a Student Management System using Spring Boot, where you have implemented CRUD operations and displayed the results on a web browser.
+
+
 
 Project Title: Student Management System (SMS) with Spring Boot
 
